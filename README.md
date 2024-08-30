@@ -1,4 +1,4 @@
-# 👾 Keyuhara 👾
+# 👾 Skills 👾
 
 ## ⌨️ Programming Languages
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -39,21 +39,31 @@
 <img align="left" alt="PyTorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <br><br><br> -->
 
-## 🕹️ Projects
+---
+
+# 🕹️ Projects
 <a href="keyuhara.github.io/DetectiveSearchBar/">
    <img alt="Detective Search Bar" width="400px" style="padding-right:10px;" title="Click here for demo!" 
      src="https://raw.githubusercontent.com/Keyuhara/DetectiveSearchBar/main/Screenshots/demo.png"/></a>
 <br>
 <figcaption>Detective Search Bar: <a href="github.com/Keyuhara/DetectiveSearchBar">GitHub Repo</a> | | <a href="keyuhara.github.io/DetectiveSearchBar/">Conceptual Demo</a> </figcaption>
-<br><br>
+
+#
+
+<br>
 <a href="keyuhara.github.io/WordWhacker/">
    <img alt="Word Whacker" width="400px" style="padding-right:10px;" title="Click to play!" 
      src="https://raw.githubusercontent.com/Keyuhara/WordWhacker/main/Screenshots/gameplay.PNG"/></a>
 <br>
 <figcaption>Word Whacker: <a href="github.com/Keyuhara/WordWhacker">GitHub Repo</a> | | <a href="keyuhara.github.io/WordWhacker/">Playable Demo</a> </figcaption>
-<br><br>
+
+#
+
+<br>
 <a href="https://keyuhara.github.io/MinecraftClicker/">
    <img alt="Minecraft Clicker" width="400px" style="padding-right:10px;" title="Click to play!" 
      src="https://raw.githubusercontent.com/Keyuhara/MinecraftClicker/main/Screenshots/gameplay.png"/></a>
 <br>
 <figcaption>Minecraft Clicker: <a href="github.com/Keyuhara/MinecraftClicker">GitHub Repo</a> | | <a href="keyuhara.github.io/MinecraftClicker/">Playable Demo</a> </figcaption>
+
+---
