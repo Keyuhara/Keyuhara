@@ -41,7 +41,7 @@
 
 ---
 
-# 🕹️ Projects
+# 🕹️ Projects 🕹️
 <a href="keyuhara.github.io/DetectiveSearchBar/">
    <img alt="Detective Search Bar" width="400px" style="padding-right:10px;" title="Click here for demo!" 
      src="https://raw.githubusercontent.com/Keyuhara/DetectiveSearchBar/main/Screenshots/demo.png"/></a>
