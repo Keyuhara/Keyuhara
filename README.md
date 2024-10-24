@@ -44,28 +44,28 @@
 ---
 
 # 🕹️ Projects 🕹️
-<a href="keyuhara.github.io/DetectiveSearchBar/">
+<a href="https://keyuhara.github.io/DetectiveSearchBar/" rel="noopener noreferrer nofollow" target="_blank">
    <img alt="Detective Search Bar" width="400px" style="padding-right:10px;" title="Click here for demo!" 
      src="https://raw.githubusercontent.com/Keyuhara/DetectiveSearchBar/main/Screenshots/demo.png"/></a>
 <br>
-<figcaption>Detective Search Bar: <a href="github.com/Keyuhara/DetectiveSearchBar">GitHub Repo</a> | | <a href="keyuhara.github.io/DetectiveSearchBar/">Conceptual Demo</a> </figcaption>
+<figcaption>Detective Search Bar: <a href="https://github.com/Keyuhara/DetectiveSearchBar">GitHub Repo</a> | | <a href="https://keyuhara.github.io/DetectiveSearchBar/">Conceptual Demo</a> </figcaption>
 
 #
 
 <br>
-<a href="keyuhara.github.io/WordWhacker/">
+<a href="https://keyuhara.github.io/WordWhacker/" rel="noopener noreferrer nofollow" target="_blank">
    <img alt="Word Whacker" width="400px" style="padding-right:10px;" title="Click to play!" 
      src="https://raw.githubusercontent.com/Keyuhara/WordWhacker/main/Screenshots/gameplay.PNG"/></a>
 <br>
-<figcaption>Word Whacker: <a href="github.com/Keyuhara/WordWhacker">GitHub Repo</a> | | <a href="keyuhara.github.io/WordWhacker/">Playable Demo</a> </figcaption>
+<figcaption>Word Whacker: <a href="https://github.com/Keyuhara/WordWhacker">GitHub Repo</a> | | <a href="https://keyuhara.github.io/WordWhacker/">Playable Demo</a> </figcaption>
 
 #
 
 <br>
-<a href="https://keyuhara.github.io/MinecraftClicker/">
+<a href="https://keyuhara.github.io/MinecraftClicker/" rel="noopener noreferrer nofollow" target="_blank">
    <img alt="Minecraft Clicker" width="400px" style="padding-right:10px;" title="Click to play!" 
      src="https://raw.githubusercontent.com/Keyuhara/MinecraftClicker/main/Screenshots/gameplay.png"/></a>
 <br>
-<figcaption>Minecraft Clicker: <a href="github.com/Keyuhara/MinecraftClicker">GitHub Repo</a> | | <a href="keyuhara.github.io/MinecraftClicker/">Playable Demo</a> </figcaption>
+<figcaption>Minecraft Clicker: <a href="https://github.com/Keyuhara/MinecraftClicker">GitHub Repo</a> | | <a href="https://keyuhara.github.io/MinecraftClicker/">Playable Demo</a> </figcaption>
 
 ---
